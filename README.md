@@ -5,4 +5,3 @@
 ### Integrantes 
 - Winona Muñoz
 - Walter Gómez
-- Santiago Sosa
